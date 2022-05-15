@@ -220,6 +220,14 @@ footer {
     margin-top: 0;
 }
 
+.bruh {
+    margin-left: 10px;
+}
+
+.bottom {
+    margin-top: 12px;
+}
+
 @media (max-width: 675px) {
     .container-nav {
         flex-direction: column;
