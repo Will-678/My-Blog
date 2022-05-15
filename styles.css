@@ -228,6 +228,10 @@ footer {
     margin-top: 12px;
 }
 
+.bottom .four {
+    margin-right:10px;
+}
+
 @media (max-width: 675px) {
     .container-nav {
         flex-direction: column;
