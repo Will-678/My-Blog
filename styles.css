@@ -53,10 +53,7 @@ h1 {
     text-decoration: none;
 }
 
-.big-boy .bottom {
-    margin:0.75em 1em 0 0 ;
-    margin-right:1em;
-}
+
 
 .skinny-boy a {
     text-decoration: none;
@@ -128,7 +125,7 @@ img {
 }
 
 main {
-    width:90%; 
+    width:80%; 
     color:#707070;
     max-width: 1100px;
 }
@@ -172,6 +169,7 @@ header {
 
 .p-one-nine, .p-two, .p-three, .p-four {
     display:flex;
+    justify-content: space-around;
 }
 
 .big-boy {
@@ -214,10 +212,6 @@ footer {
 .aboutheader h3 {
     color: #1792d2;
     font-family: 'Lora', serif;
-}
-
-.bruh {
-    margin-top: 0;
 }
 
 .bruh {
